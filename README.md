@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fabio Coelho – Desenvolvedor Web Júnior</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #0077cc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #0077cc;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Fabio Coelho</h1>
+    <p>Desenvolvedor Web Júnior | Foco em trabalho remoto</p>
+  </header>
+
+  <section>
+    <h2>Sobre Mim</h2>
+    <p>Sou um profissional em transição de carreira, apaixonado por tecnologia e soluções digitais. Aos 54 anos, trago comigo maturidade, responsabilidade e vontade de aprender. Busco uma oportunidade como desenvolvedor web júnior em regime home office.</p>
+  </section>
+
+  <section>
+    <h2>Habilidades Técnicas</h2>
+    <ul>
+      <li>HTML5, CSS3, JavaScript</li>
+      <li>Git e GitHub</li>
+      <li>Design responsivo</li>
+      <li>Estudando: Bootstrap e React</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projetos</h2>
+    <p>Em breve, você poderá visualizar meus projetos aqui. Estou desenvolvendo sites institucionais, landing pages e mini blogs para demonstrar minhas habilidades.</p>
+  </section>
+
+  <section>
+    <h2>Contato</h2>
+    <p>Email: fabio.seuemail@email.com</p>
+    <p>GitHub: <a href="https://github.com/fabiosoftware" target="_blank">github.com/fabiosoftware</a></p>
+    <p>LinkedIn: <a href="#" target="_blank">[Seu perfil LinkedIn]</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Fabio Coelho – Desenvolvedor Web Júnior</p>
+  </footer>
+
+</body>
+</html>
+
